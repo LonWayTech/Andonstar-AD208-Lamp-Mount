@@ -2,6 +2,7 @@
 3D printed lamp mount for use with the Andonstar AD208 microscope.
 
 Any generic lamp with a clamp type base should work.
+
 For reference I used the following lamp from amazon, removing the LED light.
 https://www.amazon.co.uk/dp/B08SQPP3B3?psc=1&ref=ppx_yo2ov_dt_b_product_details
 

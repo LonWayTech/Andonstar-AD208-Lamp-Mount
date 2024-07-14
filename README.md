@@ -7,6 +7,7 @@ For reference I used the following lamp from amazon, removing the LED light.
 https://www.amazon.co.uk/dp/B08SQPP3B3?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 Model was written in OpenSCAD, both OpenSCAD and STL files are provided.
+Credit to @EqUiNoX-Labs for the original SCAD design, I just modified it to fit the AD208
 
 ![OpenSCAD](https://github.com/user-attachments/assets/9c78e45b-9bdd-47ca-bdbf-ca05f98a9293)
 
